@@ -3,5 +3,7 @@
 
 target 'teacherstudent' do
 	pod ‘Firebase/Auth’
+	pod ‘Firebase/Database’
+
 
 end
